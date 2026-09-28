@@ -16,4 +16,4 @@
     - Typography principles
     - Good, responsive and accessible usage of various units (px, rem etc.)
 
-** *This is a completely hand-written project. Time taken was ==2hrs 12mins== to finish coding (excluding GitHub deployment time)* **
+*This is a completely hand-written project. Time taken was **2hrs 12mins** to finish coding (excluding GitHub deployment time)*

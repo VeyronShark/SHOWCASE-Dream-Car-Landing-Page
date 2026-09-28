@@ -4,8 +4,16 @@
 ## Skills Showcased ##
 - ### HTML ###
     - Plenty Usage of Semantic Tags
-    - Layout Techniques like Flexbox and Grid
     - WAI-ARIA compliancy, aria-tags have been used for accessibility
+    - Good and neatly structured tables 
+- ### CSS ###
+    - Layout Techniques like Flexbox and Grid
     - WCAG compliancy by contrast and colour combinations
     - Responsiveness using appropriate media queries
-- ### CSS ###
+    - Appropriate and non-excessive use of animations and transitions
+    - Pseudo classes and css custom properties for animations
+    - Attribute selectors
+    - Typography principles
+    - Good, responsive and accessible usage of various units (px, rem etc.)
+
+*** This is a completely hand-written project. Time taken was ==2hrs 12mins== to finish coding (excluding GitHub deployment time) ***

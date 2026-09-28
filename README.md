@@ -3,3 +3,9 @@
 
 ## Skills Showcased ##
 - ### HTML ###
+ - Plenty Usage of Semantic Tags
+ - Layout Techniques like Flexbox and Grid
+ - WAI-ARIA compliancy, aria-tags have been used for accessibility
+ - WCAG compliancy by contrast and colour combinations
+ - Responsiveness using appropriate media queries
+- ### CSS ###
